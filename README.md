@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently a PhD Student at Northwestern Department of Political Science ...
+
 <!--
 **artur-baranov/artur-baranov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
